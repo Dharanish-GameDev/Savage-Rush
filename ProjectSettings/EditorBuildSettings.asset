@@ -1,0 +1,44 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/MainMenu.unity
+    guid: 3f5b213e5c7116748a5a76c535fe82c0
+  - enabled: 1
+    path: Assets/Scenes/CarSelection.unity
+    guid: 80071b9cbf77d8943b08150dbc191e24
+  - enabled: 1
+    path: Assets/Scenes/MapSelector.unity
+    guid: c650b1a866b375e4981adb57122266eb
+  - enabled: 1
+    path: Assets/Scenes/for_lvl.unity
+    guid: 4dc3654d67a8fd44db4c07ddf5bcdf56
+  - enabled: 1
+    path: Assets/Scenes/Lv1_Forsake.unity
+    guid: 478c459e186bd4e46b5823901dcd2660
+  - enabled: 1
+    path: Assets/Scenes/Lv2_Forsake.unity
+    guid: fffde41a9e3ae29418c17f28458625c9
+  - enabled: 1
+    path: Assets/Scenes/green_lvl.unity
+    guid: aa658912be043d84ab2f90bfc8b2e11d
+  - enabled: 1
+    path: Assets/Scenes/tai_lvl.unity
+    guid: 4a5cd6f33a9aa514bb5213069da529cf
+  - enabled: 1
+    path: Assets/Scenes/Lv1_GreenTitan.unity
+    guid: decf74eb43d467e4fba9586ffd75c4f7
+  - enabled: 1
+    path: Assets/Scenes/Lv2_Green Titan.unity
+    guid: 18796fddc87cedb49bf02dda1fd00e4f
+  - enabled: 1
+    path: Assets/Scenes/Lv1_Taiga.unity
+    guid: 079237f61892eea40ac202c16b4fea70
+  - enabled: 1
+    path: Assets/Scenes/Lv2_Taiga.unity
+    guid: 8a5a55e5306b019468900851854ce1cf
+  m_configObjects: {}
